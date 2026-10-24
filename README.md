@@ -8,4 +8,4 @@
 • Автоматизация графики и медиа-контента для товарных матриц (Photoshop JSX, автоматическая обработка изображений)
 • Внедрение ИИ-ассистентов для менеджеров по продажам (Автоматическая генерация КП и документов)
 
-Стек: Python | JS / Node.js | Photoshop JSX | Google Sheets API | Bitrix API | AI Integrations
+Стек: Python | JS / Node.js | Adobe JSX | Google Sheets API | Google Apps Script GAS | AI Integrations
